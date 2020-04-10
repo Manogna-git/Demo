@@ -13,4 +13,8 @@ public class Model {
 public void m2() {
 	System.out.println("34444");
 }
+public void m3() {}
+        
+
+
 }
